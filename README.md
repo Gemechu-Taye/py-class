@@ -1,2 +1,2 @@
-# py-class
+# py-practice
 python practice code.
